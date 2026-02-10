@@ -216,7 +216,7 @@ html,body{
 .hero-img {
     height: 600px;
     width: 1500px;
-    background-image: url(Hero\ Background.jpg) ;
+    background-image: url(https://github.com/hprajapati67070/Amazon-clone/blob/main/Hero%20Background.jpg?raw=true) ;
     background-size: cover ;  
     position:absolute;
 }
