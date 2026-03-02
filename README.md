@@ -1,0 +1,1 @@
+This is a basic, non-functional clone of the Amazon global homepage, built using only HTML and CSS. It marks the starting point of my web development journey and focuses on practicing layout structuring and styling fundamentals.
